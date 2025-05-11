@@ -1,0 +1,22 @@
+.app {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+.app.light {
+  background-color: #ffffff;
+  color: #000000;
+}
+.app.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+.text-center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.spinner-border {
+  width: 3rem;
+  height: 3rem;
+}

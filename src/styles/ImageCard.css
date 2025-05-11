@@ -1,0 +1,13 @@
+.image-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+}
+.image-card img {
+  width: 100%;
+  height: auto;
+}
+.image-card .info {
+  padding: 10px;
+}

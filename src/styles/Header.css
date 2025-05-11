@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+}
+.theme-toggle {
+  background: none;
+  border: 1px solid white;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: white;
+}
